@@ -2,7 +2,9 @@
 ### Java template
 # Compiled class file
 *.class
+.idea/vcs.xml
 .idea/
+
 *.iml
 # Log file
 *.log
