@@ -13,16 +13,9 @@ public class MainController {
         mainView = new MainView();
         scanner = new Scanner(System.in);
     }
-    public void start() {
-        mainView.showWelcomeText();
-        createMainLoop();
-    }
 
-    private void createMainLoop() {
-        String userLogin;
-        String userPassword;
 
 
     }
 
-}
+
